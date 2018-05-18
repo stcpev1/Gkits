@@ -1,5 +1,5 @@
 ---
-gkit:
+gkittest:
   # Fromat: "id:damage:count:name:ench_name:ench_level"
 
   # If you want ONLY custom name (no enchantments): "id:damage:count:name"
@@ -17,11 +17,11 @@ gkit:
   - "267:0:1:Sword Name:weapon_sharpness:3:weapon_knockback:1"
   helmet: "302:0:1"
   chestplate: "303:0:1:DEFAULT:armor_protection:1"
-  leggings: "304:0:1:Leggings Name"
-  boots: "305:0:1"
+  leggings: "304:0:1:ryhhghj"
+  boots: "305:0:1ff8ugy"
 
   commands:
-  - "tell {player} you got an awesome gkit!"
+  - "tell {player} you got an awesome gkit!!!"
 
   cooldown:
     hours: 24
