@@ -6,8 +6,8 @@ one-gkit-per-life: true
 reset-on-logout: true
 
 # Use built in permission system even if using PurePerms
-force-builtin-permissions: false
+force-builtin-permissions: true
 
 # Sign text (capitals don't matter)
-sign-text: "[Gkits]"
+sign-text: "[gkits]"
 ...
